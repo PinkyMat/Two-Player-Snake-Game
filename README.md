@@ -1,4 +1,4 @@
-**********************SNAKE GAME****************************
+SNAKE GAME
 
 * Connect Nexys A7 board to the PC using USB and Monitor using VGA cable
 * Open Vivado Project:
