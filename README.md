@@ -1,4 +1,4 @@
-**********************SNAKE GAME****************************
+SNAKE GAME
 AUTHOR: Pinky Mathew
 ************************************************************
 * Connect Nexys A7 board to the PC using USB and Monitor using VGA cable
