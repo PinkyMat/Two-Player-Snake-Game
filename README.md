@@ -13,13 +13,13 @@
 *************************************************************
 
 **Software & Hardware Used**
-1. Keil: We have used Keil uVision 5 for C and assembly language i.e. for snake game application
+1. Keil: Keil uVision 5 is used for C and assembly language i.e. for snake game application
 development.
-2. Tera term: Used tera term software to send (UP, DOWN, RIGHT, LEFT) commands via
+2. Tera term: Tera Term software is used to send (UP, DOWN, RIGHT, LEFT) commands via
 UART to the SoC.
-3. Vivado: We used Xilinx Vivado software for the hardware designing of the processor and
+3. Vivado: Xilinx Vivado software is used for the hardware designing of the processor and
 other peripherals.
-4. Nexys A7: we have used SoC board Nexys A7 manufacture
+4. Nexys A7: SoC board Nexys A7 
 
 **Software Files used in the application**
 1. _Core folder_
