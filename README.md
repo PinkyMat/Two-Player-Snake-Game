@@ -36,6 +36,6 @@ other peripherals.
 *  EDK_CM0.h: Used to specify Interrupt Number Definition
 *  cm0dsasm.s: Assembly file
 
-3. Application folder
+3. _Application folder_
 *  main.c : Tasks performing game initialization settings, boundary hit condition, self hit condition, mutual hit condition, target generation, UART, Timer for double player
 *  main_1player.c : Tasks performing game initialization settings, boundary hit condition, self hit condition, mutual hit condition, target generation, UART, Timer for single player
